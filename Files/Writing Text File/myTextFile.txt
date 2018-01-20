@@ -1,0 +1,2 @@
+I am writing in a text file
+I am on new line !

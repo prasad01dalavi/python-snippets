@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Login</title>
+
+<div class="container">
+	<h2>EyeWay Vehicle Tracking Solutions...</h2>
+	<p>
+		You can log in here!
+	</p>
+
+	<form method="post">
+		{% csrf_token %}
+		{{form.as_p}}
+		<button class="btn btn-primary" type="submit" name="button">Login</button>
+	</form>
+</div>
+
+{% endblock %}
