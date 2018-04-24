@@ -1,17 +1,24 @@
-##File I/O Operations
-##stringVariable = raw_input("Enter your Input:")  #reads one line from the standard input and returns a string
-##print "Entered input is:",stringVariable
+fileObject = open('myFile.txt', 'r')  # Open file in 'read' mode
 
-fileObject = open('myFile.txt','r')
-
-print 'Name of the File:',fileObject.name
-print 'Opening Mode:',fileObject.mode
-print 'contents of the File:',fileObject.read()
+print 'Name of the File:', fileObject.name
+print 'Opening Mode:', fileObject.mode
+print 'contents of the File:', fileObject.read()
 print '----------------------------------------------------'
-newContents = 'These are my new contents.'
-fileNewObject = open('myFile.txt','a')
-print 'New Opening Mode:',fileNewObject.mode
+
+newContents = '\nThese are my new appended file contents.'
+fileNewObject = open('myFile.txt', 'a')    # Now, open file in 'append' mode
+print 'New Opening Mode:', fileNewObject.mode
 fileNewObject.write(newContents)
-fileNewObject.close()             #Need to close the file before changing the mode
-fileNewObject2 = open('myFile.txt','r')
-print 'After adding new contents:\n',fileNewObject2.read()
+
+fileNewObject = open('myFile.txt', 'r')    # Now, open file in 'read' mode
+print 'After adding new contents, myFile.txt is:\n', fileNewObject.read()
+fileNewObject.close()   # Remember to close the file
+print '----------------------------------------------------'
+
+# Another good method for Files I/O
+with open('myFile.txt', 'r') as file_object:
+    file_contents = file_object.read()
+    # Look, I am not closing the file object, it will be automatically closed
+    # This is considered as best method for file related operations
+
+print 'Reading File using With statement:\n', file_contents

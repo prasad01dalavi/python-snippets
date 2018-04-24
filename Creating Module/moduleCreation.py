@@ -1,19 +1,22 @@
 import myModule             # Import created module
-myModule.simpleFunction1()  # Call a function1 in imported module
-myModule.simpleFunction2()  # Call a function2 in imported module
+# Note:
+# When the module is imported it will run through all the code in mymodule
 
-import myModule as m  # Use m instead of the name myModule
+myModule.simpleFunction1()  # Call a function1 from imported module
+myModule.simpleFunction2()  # Call a function2 from imported module
+
+import myModule as m        # Use m instead of the name myModule
 m.simpleFunction4()
 
 from myModule import simpleFunction3
-simpleFunction3()                       # used directly
+simpleFunction3()           # Using function from imported module
 
 from myModule import simpleFunction3 as SF3
-SF3()                                   # used directly
+SF3()
 
 print 'Import Module Test successful !'
-print 'Directories in moduel =', dir(myModule)
-# Note: When the module is imported it will run throught all the code in my module
+print 'Directories in module =', dir(myModule)
+
 
 '''
 Output:

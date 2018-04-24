@@ -1,3 +1,0 @@
-I am writing in a text file
-I am on new line !
-I am appending this data to the file

@@ -1,6 +1,0 @@
-Steps:
-1. Write your code. I have saved it as myCode.py
-2. Write a program which will make mycode executable. I have written it in myCodeExe.py
-3. Open cmd at the folder in which these two files are located.
-4. Give command "python myCodeExe.py build"
-5. In build folder I will get my executable file.

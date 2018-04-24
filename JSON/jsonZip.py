@@ -1,18 +1,12 @@
-##import json
-##
-##a=[u'kkkjkljl', u'hkjk', u'jkhklj', u'abc', u'hk', u'dfd', u'tyuyt']
-##b=["10","5","6"]
-##c=['x','y','z']
-##
-##
-##print json.dumps([{'Longitude': country, 'Latitude': wins, 'test': t} for country, wins, t in zip(a, b, c)])
-
-
 import json
 
-stu = ['abc', 'pqr', 'xyz', 'stu']
-team = ['cricket', 'football', 'hollyball', 'cricket']
+key_list = ['key1', 'key2', 'key3']
+value_list = ['value1', 'value2', 'value3']
 
+my_dict = dict(zip(key_list, value_list))
+print my_dict
+# {'key3': 'value3', 'key2': 'value2', 'key1': 'value1'}
 
-json_object = json.dumps([{'Student': stu, 'Team': team} for stu, team in zip(stu, team)])
-print json_object
+python_string = json.dumps(my_dict)   # Json object --> python string
+print python_string, type(python_string)
+# {"key3": "value3", "key2": "value2", "key1": "value1"} <type 'str'>
