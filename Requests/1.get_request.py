@@ -23,6 +23,3 @@ we need to convert the raw response content into a JSON type data structure.
 This is achieved by using json() method. Finally, we extract the required
 information by parsing down the JSON type object
 """
-
-
-
