@@ -2,149 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9308fb22-ee61-419a-8c8e-cfdc24a3bf00" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/Loading csv Data From Text Files/numpy_method.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Files/Loading csv Data From Text Files/with_csv_method.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Google Maps/getLongLatAddress.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Google Maps/gmapPlot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatPlotLib/1.lineChart.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatPlotLib/4.stackPlots.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatPlotLib/6.pieChart.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MatPlotLib/7.customization.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Computer Vision/introduction.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Computer Vision/my_bike.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Computer Vision/video_display.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/Process.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/my_python_code" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-Analysis.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-COLLECT.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-EXE.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-PKG.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-PKG.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-PYZ.pyz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/out00-PYZ.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/warnmy_python_code.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/build/my_python_code/xref-my_python_code.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_codecs_cn.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_codecs_hk.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_codecs_iso2022.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_codecs_jp.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_codecs_kr.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_codecs_tw.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_hashlib.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/_multibytecodec.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/bz2.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/libbz2.so.1.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/libcrypto.so.1.0.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/libpython2.7.so.1.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/libreadline.so.6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/libtinfo.so.5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/libz.so.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/my_python_code" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/readline.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/dist/my_python_code/resource.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/my_python_code.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using PyInstaller/my_python_code.spec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/Process.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/_hashlib.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/bz2.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/myCode.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/python27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/python27.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/select.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/build/exe.win32-2.7/unicodedata.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/myCode.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Creating Executable Code/Using cx_Freeze/myCodeExe.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Appending to the File/fileAppend.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Appending to the File/myTextFile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Loading Data From Files/LoadingDataUsingNumpy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Loading Data From Files/loadingDataFromFile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Reading Text File/myTextFile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Reading Text File/readTextFile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Writing Text File/myTextFile.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Files/Writing Text File/writeTextFile.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/.idea/Flask Web Development.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/1.Introduction.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/2.RoutingConcept.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/3.HTTP_Methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/4.HTML_Templates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/5.Mapping_Multiple_Urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/static/my_css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/templates/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask Web Development/templates/user.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/.idea/Flask Web Development.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/1.Introduction.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/2.RoutingConcept.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/3.HTTP_Methods.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/4.HTML_Templates.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/5.Mapping_Multiple_Urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/static/my_css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/templates/profile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flask/Flask Web Development/templates/user.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/Google API for Geocoding.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/dbToGmapRealTime.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/getLongLatAddress.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/gmapPlot.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/jupyter-gmaps.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/myMap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/accounts/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/accounts/home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/accounts/login.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/accounts/logout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/accounts/myMap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/accounts/oldlogin.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/base.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/templates/dashbase.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/accounts/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/manage.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/mysite/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/mysite/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/mysite/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/mysite/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/mysite/webapp/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/G-Map/oneLocation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MatPlotLib/customization.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MatPlotLib/pieChart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MatPlotLib/stackPlots.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MatPlotLib/styles.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Files/Loading Data From Files/myFile.txt" afterPath="$PROJECT_DIR$/Files/Loading csv Data From Text Files/myFile.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/3dWorld.py" afterPath="$PROJECT_DIR$/MatPlotLib/10.3dWorld.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/Histograms.py" afterPath="$PROJECT_DIR$/MatPlotLib/5.Histograms.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/Subplot.py" afterPath="$PROJECT_DIR$/MatPlotLib/9.Subplot.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/barCharts.py" afterPath="$PROJECT_DIR$/MatPlotLib/2.barCharts.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/legendsTitlesLabels.py" afterPath="$PROJECT_DIR$/MatPlotLib/8.legendsTitlesLabels.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/liveGraph1.py" afterPath="$PROJECT_DIR$/MatPlotLib/11.liveGraph1.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/liveGraph2.py" afterPath="$PROJECT_DIR$/MatPlotLib/12.liveGraph2.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MatPlotLib/scatterPlot.py" afterPath="$PROJECT_DIR$/MatPlotLib/3.scatterPlot.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Creating Module/moduleCreation.py" afterPath="$PROJECT_DIR$/Creating Module/moduleCreation.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/File IO/fileIO.py" afterPath="$PROJECT_DIR$/Files/File IO/fileIO.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/File IO/myFile.txt" afterPath="$PROJECT_DIR$/Files/File IO/myFile.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Files/Reading CSV File/readingCSV.py" afterPath="$PROJECT_DIR$/Files/Reading CSV File/readingCSV.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSON/jsonScratching.py" afterPath="$PROJECT_DIR$/JSON/jsonScratching.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/JSON/jsonZip.py" afterPath="$PROJECT_DIR$/JSON/jsonZip.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MatPlotLib/10.3dWorld.py" afterPath="$PROJECT_DIR$/MatPlotLib/10.3dWorld.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -159,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/MatPlotLib/6.pieChart.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+              <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -168,7 +28,7 @@
       <file leaf-file-name="9.Subplot.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MatPlotLib/9.Subplot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="792">
               <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
               <folding>
                 <element signature="e#0#60#0" expanded="true" />
@@ -180,8 +40,8 @@
       <file leaf-file-name="10.3dWorld.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MatPlotLib/10.3dWorld.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+            <state relative-caret-position="540">
+              <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -189,10 +49,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2.barCharts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MatPlotLib/2.barCharts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
+            <state relative-caret-position="672">
               <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
               <folding>
                 <element signature="e#0#52#0" expanded="true" />
@@ -234,10 +104,11 @@
         <option value="$PROJECT_DIR$/MatPlotLib/styles.py" />
         <option value="$PROJECT_DIR$/MatPlotLib/9.Subplot.py" />
         <option value="$PROJECT_DIR$/MatPlotLib/10.3dWorld.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-228" />
     <option name="y" value="24" />
     <option name="width" value="1855" />
@@ -258,7 +129,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -276,6 +146,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,19 +282,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1051" extended-state="7" />
+    <frame x="-4" y="-4" width="1928" height="1051" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -442,11 +313,48 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MatPlotLib/6.pieChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatPlotLib/9.Subplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatPlotLib/2.barCharts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MatPlotLib/10.3dWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MatPlotLib/1.lineChart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -464,9 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -474,7 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -482,9 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -492,9 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="33" lean-forward="false" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,9 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="3" column="48" lean-forward="false" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -649,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,31 +564,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MatPlotLib/styles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MatPlotLib/styles.py" />
     <entry file="file://$PROJECT_DIR$/MatPlotLib/6.pieChart.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MatPlotLib/2.barCharts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
+        <state relative-caret-position="672">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="12" />
           <folding>
             <element signature="e#0#52#0" expanded="true" />
@@ -711,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MatPlotLib/9.Subplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="792">
           <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
           <folding>
             <element signature="e#0#60#0" expanded="true" />
@@ -719,10 +596,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MatPlotLib/10.3dWorld.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="44" lean-forward="true" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state relative-caret-position="540">
+          <caret line="42" column="49" lean-forward="true" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

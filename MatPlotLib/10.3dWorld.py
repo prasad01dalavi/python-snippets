@@ -37,14 +37,14 @@ ax3.bar3d(x, y, z, dx, dy, dz, color='g')  # 3D Bar Graph
 
 ax1.set_xlabel('x label')
 ax1.set_ylabel('y label')  # We can also write "plt.ylabel('y label')"
-ax1.set_zlabel('z label')  # we can't write plt.zlabel
+ax1.set_zlabel('z label')  # but we can't write plt.zlabel
 
 ax2.set_xlabel('x label')
 ax2.set_ylabel('y label')  # We can also write "plt.ylabel('y label')"
-ax2.set_zlabel('z label')  # we can't write plt.zlabel
+ax2.set_zlabel('z label')  # but we can't write plt.zlabel
 
 ax3.set_xlabel('x label')
 ax3.set_ylabel('y label')  # We can also write "plt.ylabel('y label')"
-ax3.set_zlabel('z label')  # we can't write plt.zlabel
+ax3.set_zlabel('z label')  # but we can't write plt.zlabel
 
 plt.show()
