@@ -1,2 +1,4 @@
 *.pyc
 .idea
+*.iml
+*.xml
