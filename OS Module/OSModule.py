@@ -1,10 +1,13 @@
-import os       # to perform os related operations like making directoy, deleting, renaming
-import time
+import os
+# Performs os related operations like making new directory, deleting, renaming
+import time   # To observe the process
 
-currentDirectory = os.getcwd()  # To get the current directly location of program
-print currentDirectory          # /media/prasad/Programming/Codes/Python
+currentDirectory = os.getcwd()
+# To get the current directly location of program
+print currentDirectory
+# C:\Users\Prasad\Desktop\python_intermediate\OS Module
 
-os.mkdir('NewDirectory')
+os.mkdir('NewDirectory')   # This will create a new folder beside the program
 print 'New Directory/Folder has been created'
 time.sleep(2)  # Wait for 2 sec
 

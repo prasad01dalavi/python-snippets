@@ -16,5 +16,5 @@ plt.xlabel("x label")
 plt.ylabel("y label")
 plt.title("Important Title\nLine Below the Title")
 
-plt.legend()
+plt.legend()    # loc='upper right' --> location of the label
 plt.show()

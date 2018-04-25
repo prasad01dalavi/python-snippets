@@ -12,9 +12,10 @@ genList = [7, 8, 9, 10]  # General method of declaration
 
 # Addition of normal list gives cascading of array
 print "genList+genList =", genList + genList    # [7, 8, 9, 10, 7, 8, 9, 10]
-print "genList * 3 =", genList * 3              # [7, 8, 9, 10, 7, 8, 9, 10, 7, 8, 9, 10]
+print "genList * 3 =", genList * 3
+# [7, 8, 9, 10, 7, 8, 9, 10, 7, 8, 9, 10]
 
-# numpy gives me elementwise Operation
+# numpy gives me element by element Operation
 print "List A * 2 =", list_A * 2                # [ 2  6 10 14]
 print "List A * List B =", list_A * list_B      # [ 2 12 30 56]
 print "List A + List B =", list_A + list_B      # [ 3  7 11 15]
