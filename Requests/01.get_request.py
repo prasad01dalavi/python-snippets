@@ -52,4 +52,3 @@ print 'Encoding:', r.encoding  # utf-8
 print 'Response:', r.text
 print 'Binary Response:', r.content
 print
-# --------------------------------------------------------------------------- #

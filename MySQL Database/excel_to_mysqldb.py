@@ -2,7 +2,7 @@
 This code reads the data from excel file and write it into Database
 """
 
-import MySQLdb
+import MySQLdb    # For database related operations
 import xlrd       # For reading excel files
 
 book = xlrd.open_workbook('student_data.xls')  # open an excel file

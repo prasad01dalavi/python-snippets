@@ -2,7 +2,7 @@
 This code reads the data from Database and write it into Excel file
 """
 
-import MySQLdb
+import MySQLdb    # For database related operations
 import xlwt       # For writing excel files
 
 book = xlwt.Workbook(encoding='utf-8')
